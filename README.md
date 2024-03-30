@@ -1,7 +1,7 @@
 # Modelo PFC Engenharia Eletrica IFBA VDC
 Modelo de artigo seguindo as normas da COEEL em latex
 
-O repositório é uma versão do [sbc-template](https://github.com/filipecancio/sbc-template) modificado com o template PFC desenvolvido por Elvio Prado da Silva. Vocë pode ver a versão original do template nesse [link](https://www.overleaf.com/latex/templates/template-pfc-engenharia-eletrica-ifba-vdc/hvcvygcjbghg). E também acessar a página sobre o curso de engenharia elétrica [aqui](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/engenharia-eletrica).
+O repositório é uma versão do [sbc-template](https://github.com/filipecancio/sbc-template) modificado com o template PFC desenvolvido por [Elvio Prado da Silva]((https://github.com/prof-elvio)). Vocë pode ver a versão original do template nesse [link](https://www.overleaf.com/latex/templates/template-pfc-engenharia-eletrica-ifba-vdc/hvcvygcjbghg). E também acessar a página sobre o curso de engenharia elétrica [aqui](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/engenharia-eletrica).
 
 # Sobre o template PFC IFBA VCA
 
@@ -11,7 +11,7 @@ Template criado para atender às demandas de Projeto Final de Curso (PFC) e Rela
 
 - versão 2023.08.07 
 - Criado por prof. Elvio Prado da Silva
-- Email |elvio@ieee.org
+- Email elvio@ieee.org
 - Github  [prof-elvio](https://github.com/prof-elvio)
 
 Distribuição e modificação autorizada desde que mantenha os créditos das pessoas que trabalharam neste template
