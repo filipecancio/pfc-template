@@ -3,6 +3,19 @@ Modelo de artigo seguindo as normas da COEEL em latex
 
 O repositório é uma versão do [sbc-template](https://github.com/filipecancio/sbc-template) modificado com o template PFC desenvolvido por Elvio Prado da Silva. Vocë pode ver a versão original do template nesse [link](https://www.overleaf.com/latex/templates/template-pfc-engenharia-eletrica-ifba-vdc/hvcvygcjbghg). E também acessar a página sobre o curso de engenharia elétrica [aqui](https://portal.ifba.edu.br/conquista/capas-e-paginas-menu-cursos/engenharia-eletrica).
 
+# Sobre o template PFC IFBA VCA
+
+PFC - Projeto de Final de Curso Engenharia Elétrica (COEEL) - IFBA campus Vitória da Conquista e Modelo de Relatório.
+Este é um template (modelo) LaTeX que NÃO possui a intenção de seguir a norma ABNT-NBR14724 - Trabalhos Acadêmicos, porém estaremos seguindo as definições da norma ABNT-NBR6023 - Referências
+Template criado para atender às demandas de Projeto Final de Curso (PFC) e Relatórios Técnicos de Engenharia Elétrica do IFBA campus Vitória da Conquista
+
+- versão 2023.08.07 
+- Criado por prof. Elvio Prado da Silva
+- Email |elvio@ieee.org
+- Github  [prof-elvio](https://github.com/prof-elvio)
+
+Distribuição e modificação autorizada desde que mantenha os créditos das pessoas que trabalharam neste template
+
 ## Instruções importantes
 - [Novo repositorio com base no template](https://github.com/filipecancio/sbc-template/wiki/Criar-um-novo-template)
 - [Liberar actions para criar releases](https://github.com/filipecancio/sbc-template/wiki/Liberar-actions-para-criar-releases)
